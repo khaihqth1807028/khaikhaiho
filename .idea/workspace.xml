@@ -110,6 +110,7 @@
       <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai_ja.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai_vi.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../doc file xml/src/main/java/mainthread/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../doc file xml/src/main/java/mainthread/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../http/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../http/.idea/description.html" beforeDir="false" />
@@ -292,7 +293,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -366,12 +367,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559293785580</updated>
       <workItem from="1559293789540" duration="3934000" />
-      <workItem from="1559393346231" duration="3600000" />
+      <workItem from="1559393346231" duration="4244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7534000" />
+    <option name="totallyTimeSpent" value="8178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
