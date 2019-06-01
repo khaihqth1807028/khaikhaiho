@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a7fda71-ab84-4f84-9e25-e865fc7819c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hellofx/src/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hellofx/src/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/src/main/java/com/assignment/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/src/main/java/com/assignment/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/src/main/java/com/assignment/model/EmployeeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaasaiment/src/main/java/com/assignment/utility/EmployeeMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/asaimentjava2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/META-INF/asaimentjava2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/main/resources/students.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/mainthread/MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/out/production/asaimentjava2/student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/src/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/src/main/java/student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asaimentjava2/src/main/resources/students.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asitement/.idea/asitement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapjava2.3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapjava2.3/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapjava2.3/src/main/java/entity/sukien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapjava2.3/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapjava2.3/src/main/java/mainthread/views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../battlecity/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../battlecity/src/main/java/battilecity/controller/CharacterData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../battlecity/src/main/java/battilecity/controller/ConnectListenerImplement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../battlecity/src/main/java/battilecity/controller/MyGameServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbaitap/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbaitap/src/main/java/mainthread/LuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbaitap/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bbbaitap/src/mainthread/CungLuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/src/main/java/mainthread/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.0/src/main/resources/tomandjerry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/java/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/resources/language.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/resources/language_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/resources/language_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.1test/src/main/resources/tomandjerry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../buoi3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/1file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/resources/language.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/resources/language_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/resources/language_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/resources/myfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2/src/main/resources/resources/tomandjerry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2test/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2test/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2test/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buoi3.2test/src/main/resources/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connec/src/main/resources/tyga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/assignment-java1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/src/main/java/com/assignment/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/src/main/java/com/assignment/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/src/main/java/com/assignment/model/EmployeeModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/src/main/java/com/assignment/utility/EmployeeMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/target/classes/com/assignment/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/target/classes/com/assignment/mainthread/MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/target/classes/com/assignment/model/EmployeeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuọiava1/target/classes/com/assignment/utility/EmployeeMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/src/DateofTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dateoftime/src/main/resources/khai_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doc file xml/src/main/java/mainthread/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../doc file xml/src/main/java/mainthread/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/http.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/out/production/http/src/HttpURLConnectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../http/src/src/javaio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking1/src/example/httpconnection/HttpConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking1/src/example/socket/MyClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking1/src/example/socket/MyClient2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking1/src/example/socket/MyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking2/java-networking2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking2/src/main/java/socket/MyClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking2/src/main/java/socket/MyClient2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-networking2/src/main/java/socket/MyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.1/src/main/java/MainThread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.1/src/main/java/entity/Tinhtejava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.1/src/main/java/tinhte/Tinhte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.2/src/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.2/src/news/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/java2.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/java/entity/sukien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/java/news/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/java/news/views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/src/main/resources/tvj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/META-INF/java2.3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/entity/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/entity/sukien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/news/MainThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/news/views.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.3/target/classes/tvj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.4/src/main/java/main/java/entity/ReadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.4/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.4/src/main/resources/t.jerry.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.41/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.41/src/main/java/javaio/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2.41/src/main/resources/tvj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/CungLuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/Jsoup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/LuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/MyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/mainthread/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2/src/main/java/model/NewsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/entity/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/entity/Stuent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/main/java/annatation/Column.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/main/java/annatation/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/main/java/model/HelloModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2buoicuoi/src/main/java/model/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/src/main/java/mainthreas/LuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/src/main/java/mainthreas/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/src/main/java/mainthreas/MyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambai/src/mainthreas/CungLuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/java/controller/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/java/i18n/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/khai.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/khai_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/khai_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/khai_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/language.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/language_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/language_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/myfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lan/src/main/resources/tomandjerry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/java/i18n/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/java/i18n/entity/LateInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/java/i18n/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/java/i18n/entity/YoutubeVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/java/model/NewsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/khai.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/khai_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/khai_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/khai_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/language.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/language_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/language_vi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/myfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../language/src/main/resources/tomandjerry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/lop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/out/production/lop/META-INF/lop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/out/production/lop/entity/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/out/production/lop/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/src/entity/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lop/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lấy html/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lấy html/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lấy html/src/main/java/mainthread/MainThred.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/entity/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/entity/views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/resources/tvj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/RunMyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/cafe/Cafebiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/entity/News.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/mainthread/CungLuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/mainthread/LuongCuaToi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/mainthread/MyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/mainthread/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/main/java/model/NewsModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tạo luồng/src/mainthread/MainThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/data.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/annotation/Column.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/annotation/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/entity/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/main/java/model/HelloModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/sinhvien.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="39" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="hellofx1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a7fda71-ab84-4f84-9e25-e865fc7819c5" name="Default Changelist" comment="" />
+      <created>1559293785580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559293785580</updated>
+      <workItem from="1559293789540" duration="3934000" />
+      <workItem from="1559393346231" duration="3600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7534000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24696356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
